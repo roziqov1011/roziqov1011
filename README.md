@@ -19,27 +19,27 @@
 
 <!-- Badges template - https://github.com/clevercoderr -->
 <p align="center">
-    <a href="https://github.com/">
+    <a href="https://github.com/roziqov1011">
         <img alt="Github"
              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/muhammadabdulloh-komilov/">
+    <a href="https://www.linkedin.com/in/rozivoy-rozikov-a64761218/">
         <img alt="Linkedin"
              src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://stackoverflow.com/users/17122298/clever-coder">
+    <a href="https://stackoverflow.com/users/16577554/roziqov">
         <img alt="Stackowerflow"
              src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-     <a href="https://www.hackerrank.com/clevercoderr">
-        <img alt="Hackerrank"
-             src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-    <a href="https://www.kaggle.com/clevercoderr">
-        <img alt="Kaggle"
-             src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
-    <a href="https://discord.gg/clevercoderr">
-        <img alt="Discord"
-             src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-    <a href="https://www.facebook.com/clevercoderr">
-        <img alt="Facebook"
-             src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+     <a href="https://app.netlify.com/teams/roziqov1011/overview">
+        <img alt="Netlify"
+             src="https://img.shields.io/badge/netlify-2EC866?style=for-the-badge&logo=netlify&logoColor=white"></a>
+    <a href="https://vercel.com/new">
+        <img alt="varsal"
+             src="https://img.shields.io/badge/vercel-20BEFF?style=for-the-badge&logo=vercel&logoColor=white"></a>
+    <a href="https://www.instagram.com/roziqov__r/">
+        <img alt="instagram"
+             src="https://img.shields.io/badge/instagram-7289DA?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://t.me/RRT0110">
+        <img alt="telelgram"
+             src="https://img.shields.io/badge/telegram-1877F2?style=for-the-badge&logo=telegram&logoColor=white"></a>
     <a href="https://www.facebook.com/profile.php?id=100068970307814">
 </p>
 
@@ -65,17 +65,11 @@
 
 <p>
     <a href="#">
-        <img alt="C#"
-             src="https://img.shields.io/badge/csharp-%2300599C.svg?style=for-the-badge&logo=csharp&logoColor=white"></a>
+        <img alt="js"
+             src="https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=000"></a>
     <a href="#">
-        <img alt="C"
-             src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
-    <a href="#">
-        <img alt="Java"
-             src="https://img.shields.io/badge/Java-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white"/></a>
-    <a href="#">
-        <img alt="Python"
-             src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white"/></a>
+        <img alt="nodejs"
+             src="https://img.shields.io/badge/nodejs-%2300599C.svg?style=for-the-badge&logo=node.js&logoColor=white"/></a>
     <a href="#">
         <img alt="SQL"
              src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"></a>
@@ -86,23 +80,23 @@
 
 <p>
     <a href="#">
-        <img alt="ASP.NET"
-             src="https://img.shields.io/badge/ASP.NET-%23013243.svg?style=for-the-badge&logo=ASP.NET&logoColor=white"></a>
+        <img alt="react"
+             src="https://img.shields.io/badge/react-%23013243.svg?style=for-the-badge&logo=react&logoColor=white"></a>
     <a href="#">
-        <img alt=".NET6"
-             src="https://img.shields.io/badge/.NET6-%23150458.svg?style=for-the-badge&logo=.NET6&logoColor=white"></a>
+        <img alt="angular"
+             src="https://img.shields.io/badge/angular-ff0000.svg?style=for-the-badge&logo=angular&logoColor=fff"></a>
     <a href="#">
-        <img alt="ASP.NET Core"
-             src="https://img.shields.io/badge/ASP.NET CORE-%23EE4C2C.svg?style=for-the-badge&logo=ASP.NET Core&logoColor=white"/></a>
+        <img alt="vuejs"
+             src="https://img.shields.io/badge/vuejs-fff?style=for-the-badge&logo=vue.js&logoColor=3f9636"/></a>
     <a href="#">
-        <img alt="Entity%20Fraemwork"
-             src="https://img.shields.io/badge/Entity%20Fraemwork-092E20?style=for-the-badge&logo=Entity%20Fraemwork&logoColor=green"></a>
-    <a href="#">
-        <img alt="OpenCV"
-             src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>
+        <img alt="express"
+             src="https://img.shields.io/badge/express-fff?style=for-the-badge&logo=express&logoColor=3f9636"></a>
     <a href="#">
         <img alt="MVC"
              src="https://img.shields.io/badge/MVC-43B02A?style=for-the-badge&logo=MVC&logoColor=white"/></a>
+    <a href="#">
+        <img alt="ejs"
+             src="https://img.shields.io/badge/ejs-43B02A?style=for-the-badge&logo=ejs&logoColor=white"/></a>
 </p>
 
 ### 🗄️ Databases
@@ -113,14 +107,20 @@
              src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
     <a href="#">
         <img alt="SQL"
-             src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sql&logoColor=white"/></a>
+             src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=amazon-dynamodb&logoColor=yellow"/></a>
     <a href="#">
-        <img alt="Oracle"
-             src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/></a>
+        <img alt="mongodb"
+             src="https://img.shields.io/badge/mongodb-001c29?style=for-the-badge&logo=mongodb&logoColor=43b02a"/></a>
 </p>
 
 ### ☁ Cloud hosting
 <p>
+    <a href="#">
+        <img alt="vercel"
+             src="https://img.shields.io/badge/vercel-fff.svg?style=for-the-badge&logo=vercel&logoColor=000"/></a>
+    <a href="#">
+        <img alt="netlify"
+             src="https://img.shields.io/badge/netlify-46a2eb.svg?style=for-the-badge&logo=netlify&logoColor=white"/></a>
     <a href="#">
         <img alt="Heroku"
              src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/></a>
