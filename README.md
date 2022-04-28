@@ -22,7 +22,7 @@
     <a href="https://github.com/roziqov1011">
         <img alt="Github"
              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/rozivoy-rozikov-a64761218/">
+<!--     <a href="https://www.linkedin.com/in/rozivoy-rozikov-a64761218/">
         <img alt="Linkedin"
              src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://stackoverflow.com/users/16577554/roziqov">
@@ -37,7 +37,7 @@
     <a href="https://www.instagram.com/roziqov__r/">
         <img alt="instagram"
              src="https://img.shields.io/badge/instagram-7289DA?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://t.me/RRT0110">
+    <a href="https://t.me/RRT0110"> -->
         <img alt="telelgram"
              src="https://img.shields.io/badge/telegram-1877F2?style=for-the-badge&logo=telegram&logoColor=white"></a>
     <a href="https://www.facebook.com/profile.php?id=100068970307814">
@@ -166,9 +166,9 @@
     <a href="#">
         <img alt="CLion"
              src="https://img.shields.io/badge/CLion-143?style=for-the-badge&logo=clion&logoColor=black&color=black&labelColor=orange"></a> -->
-    <a href="#">
+<!--     <a href="#">
         <img alt="Intelij IDEA"
-             src="https://img.shields.io/badge/IntelliJ%20IDEA-143?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=black&color=black&labelColor=yellow"></a>
+             src="https://img.shields.io/badge/IntelliJ%20IDEA-143?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=black&color=black&labelColor=yellow"></a> -->
     <a href="#">
         <img alt="Vsual Studio"
              src="https://img.shields.io/badge/Visual%20Studio-143?style=for-the-badge&logo=Visual%20Studio&logoColor=black&color=black&labelColor=yellow"></a>
@@ -190,10 +190,10 @@
                      src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
     <a href="#"><img alt="Linux"
                      src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-    <a href="#"><img alt="Ubuntu"
+<!--     <a href="#"><img alt="Ubuntu"
                      src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
     <a href="#"><img alt="Debian"
-                     src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
+                     src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a> -->
     
 </p>
 
