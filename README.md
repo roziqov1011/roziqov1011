@@ -105,9 +105,9 @@
     <a href="#">
         <img alt="PostgreSQL"
              src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
-    <a href="#">
+<!--     <a href="#">
         <img alt="SQL"
-             src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=amazon-dynamodb&logoColor=yellow"/></a>
+             src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=amazon-dynamodb&logoColor=yellow"/></a> -->
     <a href="#">
         <img alt="mongodb"
              src="https://img.shields.io/badge/mongodb-001c29?style=for-the-badge&logo=mongodb&logoColor=43b02a"/></a>
