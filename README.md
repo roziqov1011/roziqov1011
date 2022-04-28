@@ -82,12 +82,12 @@
     <a href="#">
         <img alt="react"
              src="https://img.shields.io/badge/react-%23013243.svg?style=for-the-badge&logo=react&logoColor=white"></a>
-    <a href="#">
+<!--     <a href="#">
         <img alt="angular"
              src="https://img.shields.io/badge/angular-ff0000.svg?style=for-the-badge&logo=angular&logoColor=fff"></a>
     <a href="#">
         <img alt="vuejs"
-             src="https://img.shields.io/badge/vuejs-fff?style=for-the-badge&logo=vue.js&logoColor=3f9636"/></a>
+             src="https://img.shields.io/badge/vuejs-fff?style=for-the-badge&logo=vue.js&logoColor=3f9636"/></a> -->
     <a href="#">
         <img alt="express"
              src="https://img.shields.io/badge/express-fff?style=for-the-badge&logo=express&logoColor=3f9636"></a>
@@ -154,7 +154,7 @@
     <a href="#">
         <img alt="GIT"
              src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-    <a href="#">
+<!--     <a href="#">
         <img alt="Jupyter"
              src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a>
     <a href="#">
@@ -165,7 +165,7 @@
              src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
     <a href="#">
         <img alt="CLion"
-             src="https://img.shields.io/badge/CLion-143?style=for-the-badge&logo=clion&logoColor=black&color=black&labelColor=orange"></a>
+             src="https://img.shields.io/badge/CLion-143?style=for-the-badge&logo=clion&logoColor=black&color=black&labelColor=orange"></a> -->
     <a href="#">
         <img alt="Intelij IDEA"
              src="https://img.shields.io/badge/IntelliJ%20IDEA-143?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=black&color=black&labelColor=yellow"></a>
