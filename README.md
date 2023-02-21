@@ -91,18 +91,6 @@
              src="https://img.shields.io/badge/ejs-43B02A?style=for-the-badge&logo=ejs&logoColor=white"/></a>
 </p>
 
-### 🗄️ Databases
-
-<p>
-   
-     
-<!--     <a href="#">
-        <img alt="SQL"
-             src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=amazon-dynamodb&logoColor=yellow"/></a> -->
-    <a href="#">
-        <img alt="mongodb"
-             src="https://img.shields.io/badge/mongodb-001c29?style=for-the-badge&logo=mongodb&logoColor=43b02a"/></a>
-</p>
 
 ### ☁ Cloud hosting
 <p>
@@ -117,13 +105,8 @@
              src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/></a>
    
 a>
-<!--     <a href="#">
-        <img alt="Google Cloud"
-             src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a> -->
-    <a href="#"><img alt="" src=""></a>
-    <a href="#"><img alt="" src=""></a>
-    <a href="#"><img alt="" src=""></a>
-    <a href="#"><img alt="" src=""></a>
+
+
 </p>
 
 ### 💻 Software and tools
