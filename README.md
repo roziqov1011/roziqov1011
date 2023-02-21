@@ -52,11 +52,7 @@
     <img alt="roziqov1011 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=roziqov1011&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
 </p>
 
-<p>
-  <a align="center" href="https://github/roziqov1011">
-    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--WPQ75f2s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epv55hgtsfi8csprpj9u.jpg" height="200" width="500">
-  </a>
-</p>
+
 
 
 ## 🛠️ My favorite tools
@@ -67,12 +63,8 @@
     <a href="#">
         <img alt="js"
              src="https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=000"></a>
-    <a href="#">
-        <img alt="nodejs"
-             src="https://img.shields.io/badge/nodejs-%2300599C.svg?style=for-the-badge&logo=node.js&logoColor=white"/></a>
-    <a href="#">
-        <img alt="SQL"
-             src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"></a>
+
+
 </p>
 
 
@@ -103,8 +95,7 @@
 
 <p>
     <a href="#">
-        <img alt="PostgreSQL"
-             src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+     
 <!--     <a href="#">
         <img alt="SQL"
              src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=amazon-dynamodb&logoColor=yellow"/></a> -->
@@ -124,22 +115,13 @@
     <a href="#">
         <img alt="Heroku"
              src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/></a>
-    <a href="#">
-        <img alt="Azure"
-             src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/>
-    </a>
-    <a href="#">
-        <img alt="Repl.it"
-             src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=Repl.it&logoColor=white"/></a>
-    <a href="#">
-        <img alt="Digital Ocean"
-             src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"></a>
-    <a href="#">
+   
+
         <img alt="AWS"
              src="https://img.shields.io/badge/AWS-0080FF?style=for-the-badge&logo=AWS&logoColor=white"></a>
-    <a href="#">
+<!--     <a href="#">
         <img alt="Google Cloud"
-             src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+             src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a> -->
     <a href="#"><img alt="" src=""></a>
     <a href="#"><img alt="" src=""></a>
     <a href="#"><img alt="" src=""></a>
@@ -148,9 +130,9 @@
 
 ### 💻 Software and tools
 <p>
-    <a href="#">
+<!--     <a href="#">
         <img alt="Docker"
-             src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
+             src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a> -->
     <a href="#">
         <img alt="GIT"
              src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
