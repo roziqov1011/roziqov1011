@@ -94,7 +94,7 @@
 ### 🗄️ Databases
 
 <p>
-    <a href="#">
+   
      
 <!--     <a href="#">
         <img alt="SQL"
@@ -116,9 +116,7 @@
         <img alt="Heroku"
              src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/></a>
    
-
-        <img alt="AWS"
-             src="https://img.shields.io/badge/AWS-0080FF?style=for-the-badge&logo=AWS&logoColor=white"></a>
+a>
 <!--     <a href="#">
         <img alt="Google Cloud"
              src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a> -->
